@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/training-diet-app/static/css/main.f855e6bc.css",
+    "main.js": "/training-diet-app/static/js/main.a367c2cc.js",
+    "static/js/787.5344324b.chunk.js": "/training-diet-app/static/js/787.5344324b.chunk.js",
+    "index.html": "/training-diet-app/index.html",
+    "main.f855e6bc.css.map": "/training-diet-app/static/css/main.f855e6bc.css.map",
+    "main.a367c2cc.js.map": "/training-diet-app/static/js/main.a367c2cc.js.map",
+    "787.5344324b.chunk.js.map": "/training-diet-app/static/js/787.5344324b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.a367c2cc.js"
+  ]
+}
