@@ -4,7 +4,7 @@ import dietBecground from "../../assets/dieteBacground.avif";
 import trainigBacground from "../../assets/trainingbackground.avif";
 import UserMenuNavbar from '../../components/Medium/navbar/menuNavbar';
 import MainPageCard from '../../components/Big/bigCard/MainPageCard';
-import backgroundSVG from "../../assets/background.svg";
+import backgroundSVG from "../../../public/assets/dieteBacground.avif"
 
 const HomePage = () => {
     let trainingDesc =
