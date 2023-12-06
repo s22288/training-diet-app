@@ -1,15 +1,38 @@
 {
   "files": {
-    "main.css": "/training-diet-app/static/css/main.f855e6bc.css",
-    "main.js": "/training-diet-app/static/js/main.a367c2cc.js",
+    "main.css": "/training-diet-app/static/css/main.0f27799c.css",
+    "main.js": "/training-diet-app/static/js/main.a46fa862.js",
     "static/js/787.5344324b.chunk.js": "/training-diet-app/static/js/787.5344324b.chunk.js",
+    "static/media/dieteBacground.avif": "/training-diet-app/static/media/dieteBacground.fd06912f3b0ec0b214d1.avif",
+    "static/media/trainingbackground.avif": "/training-diet-app/static/media/trainingbackground.a0109c1691bbd030ca61.avif",
+    "static/media/traininguser.jpg": "/training-diet-app/static/media/traininguser.86db3488ac180b6355ea.jpg",
+    "static/media/subscribe.jpg": "/training-diet-app/static/media/subscribe.f245a0953cd7c92b795a.jpg",
+    "static/media/megaNadwaga.jpg": "/training-diet-app/static/media/megaNadwaga.5972c387cc2f125f0261.jpg",
+    "static/media/duzanadwaga.jpg": "/training-diet-app/static/media/duzanadwaga.6a53fc5cc5ad9c2d0e6f.jpg",
+    "static/media/bardzoduzaNadwaga.jpg": "/training-diet-app/static/media/bardzoduzaNadwaga.cdb20859b6dcd329b069.jpg",
+    "static/media/niedowaga.jpg": "/training-diet-app/static/media/niedowaga.d7679930bf9d1e5ef8d2.jpg",
+    "static/media/nadwaga.jpg": "/training-diet-app/static/media/nadwaga.73392623ae3536a17805.jpg",
+    "static/media/norma.jpg": "/training-diet-app/static/media/norma.90e18a6e9b977406c943.jpg",
+    "static/media/blackMen.png": "/training-diet-app/static/media/blackMen.cb7355cf9e2feb4e7030.png",
+    "static/media/training.svg": "/training-diet-app/static/media/training.f2245c60fdb32997a28089c1f30271ed.svg",
+    "static/media/premiuLogo.svg": "/training-diet-app/static/media/premiuLogo.fadee3e00ae78accd240dc02efddf29b.svg",
+    "static/media/logo.svg": "/training-diet-app/static/media/logo.bfa422fe5735965584b5c83a921286be.svg",
+    "static/media/data.svg": "/training-diet-app/static/media/data.46821d9147b08b7bbc11cb9e5efaacfb.svg",
+    "static/media/edit.svg": "/training-diet-app/static/media/edit.2ce3a927937e082882f404f6fdcd9860.svg",
+    "static/media/userpage.svg": "/training-diet-app/static/media/userpage.e0a06668fa36cfdf256b7ab2a3be9239.svg",
+    "static/media/house.svg": "/training-diet-app/static/media/house.cd50fb7238a7c052985d6f28d3776f7f.svg",
+    "static/media/background.svg": "/training-diet-app/static/media/background.b72069418b08ea3d0ec74ebc32e19685.svg",
+    "static/media/delete.svg": "/training-diet-app/static/media/delete.fb4f259a65ccdec4559ac799fad378bc.svg",
+    "static/media/records.svg": "/training-diet-app/static/media/records.9965399da40a9b115602.svg",
+    "static/media/note.svg": "/training-diet-app/static/media/note.6377a816cb88e163c2bc1810741ba6a1.svg",
+    "static/media/wave.svg": "/training-diet-app/static/media/wave.6a75baeec4025df9e4a240b85db4b1cc.svg",
     "index.html": "/training-diet-app/index.html",
-    "main.f855e6bc.css.map": "/training-diet-app/static/css/main.f855e6bc.css.map",
-    "main.a367c2cc.js.map": "/training-diet-app/static/js/main.a367c2cc.js.map",
+    "main.0f27799c.css.map": "/training-diet-app/static/css/main.0f27799c.css.map",
+    "main.a46fa862.js.map": "/training-diet-app/static/js/main.a46fa862.js.map",
     "787.5344324b.chunk.js.map": "/training-diet-app/static/js/787.5344324b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.a367c2cc.js"
+    "static/css/main.0f27799c.css",
+    "static/js/main.a46fa862.js"
   ]
 }
